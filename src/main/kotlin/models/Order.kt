@@ -15,7 +15,8 @@ val orderStorage = listOf(
         OrderItem("Ham Sandwich", 2, 5.50),
         OrderItem("Water", 1, 1.50),
         OrderItem("Beer", 1, 2.30),
-        OrderItem("Cheescake", 1, 3.75)
+        OrderItem("Cheescake", 1, 3.75),
+
     )),
     Order(
         "2020-04-03-01",
@@ -23,7 +24,7 @@ val orderStorage = listOf(
             OrderItem("Cheesburger", 1, 8.50),
             OrderItem("Water", 2, 1.50),
             OrderItem("Coke", 2, 1.76),
-            OrderItem("Ice Cream", 1, 2.35)
+            OrderItem("Coffisi", 1, 2.35)
         )
     )
 )
